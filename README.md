@@ -136,3 +136,23 @@ python proxy_syz.py
 في حال واجهت أي مشكلة، تأكد من صلاحيات الوصول إلى الملفات ومسارات الحفظ 
 او تواصل معا المطورين 
 
+
+
+
+## 👨‍💻 فريق التطوير
+
+---
+
+- **darkdragonsx**  
+  Facebook: [darkdragonsx](https://www.facebook.com/darkdragonsx)  
+  ![darkdragonsx](https://avatars.githubusercontent.com/u/49872447?v=4)  
+
+---
+
+- **komet999**  
+  Facebook: [komet.shkohi.2025](https://www.facebook.com/komet.shkohi.2025)  
+  ![komet999](https://avatars.githubusercontent.com/u/74296093?v=4)  
+
+---
+
+يمكنك التواصل مع المبرمجين عبر روابط فيسبوك أعلاه.
