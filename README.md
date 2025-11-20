@@ -100,7 +100,7 @@ cd Proxy-SYZ
 3. تثبيت المتطلبات
 
 قم بتثبيت المكتبات الضرورية لتشغيل الأداة باستخدام:
-'''bash
+
 pip install -r requirements.txt
 '''
 
@@ -109,9 +109,9 @@ pip install -r requirements.txt
 4. تشغيل الأداة
 
 بعد تثبيت المتطلبات، شغّل الأداة عبر الأمر التالي:
-'''bash
+''''bash
 python proxy_syz.py
-'''
+''''
 
 ---
 
