@@ -1,5 +1,6 @@
 # 🌐 Proxy-SYZ
 
+<img src="https://raw.githubusercontent.com/DarkDragonsX/Proxy-SYZ/refs/heads/main/1769626037039.png" width="500">
 **Proxy-SYZ** هي أداة متكاملة لجلب وفحص البروكسيات المجانية من الإنترنت بسرعة ودقة عالية.  
 https://raw.githubusercontent.com/DarkDragonsX/Proxy-SYZ/refs/heads/main/1769626037039.png
 تساعدك هذه الأداة في الحصول على بروكسيات صالحة وموثوقة، حيث تقوم بجلب آلاف البروكسيات من مصادر مختلفة، ثم تتحقق من صلاحيتها عبر اختبارها على عدة مواقع شهيرة، وتصنفها حسب جودتها (سريعة، بطيئة، أو غير صالحة).  
