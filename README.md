@@ -1,7 +1,10 @@
 # الطريق إلى احتراف Python
 
 دليل عربي شامل لتعلم لغة Python بطريقة تدريجية وعملية، مناسب للمبتدئين ومن لديهم معرفة بسيطة بالبرمجة.
-
+<video controls width="100%">
+  <source src="https://raw.githubusercontent.com/DarkDragonsX/Proxy-SYZ/main/999f28ad02c0bd133b94760d1320a314.mp4" type="video/mp4">
+  Your browser does not support video playback.
+</video>
 ستتعرف على أساسيات Python وطريقة كتابة الأكواد والتعامل مع المتغيرات وأنواع البيانات والشروط والحلقات والدوال والقوائم والقواميس، ثم الانتقال تدريجيًا إلى مفاهيم أكثر تقدمًا تساعدك على تطوير مشاريعك الخاصة.
 
 <img src="https://raw.githubusercontent.com/DarkDragonsX/Proxy-SYZ/refs/heads/main/056d4c4247aed9def33eaa5e7d72f374.jpg">
