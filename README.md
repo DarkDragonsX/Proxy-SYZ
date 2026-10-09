@@ -33,6 +33,6 @@ https://github.com/DarkDragonsX/Proxy-SYZ/blob/main/999f28ad02c0bd133b94760d1320
 PDF
 
 
-
+[▶ Watch Video](https://github.com/DarkDragonsX/Proxy-SYZ/blob/main/999f28ad02c0bd133b94760d1320a314.mp4)
 
 هذا الدليل مناسب لمن يريد بناء أساس قوي في Python والتقدم تدريجيًا نحو تطوير البرامج والمشاريع.
